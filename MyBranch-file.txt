@@ -1,2 +1,5 @@
 my branch update 2
 M1
+this is master update
+M2
+
